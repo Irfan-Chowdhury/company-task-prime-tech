@@ -11,9 +11,15 @@
 
 ## How to run this project ?
 
-#### Composer Update 
+#### Clone Project 
 
 Just run this command.
+
+```bash
+git clone https://github.com/Irfan-Chowdhury/technical-test-by-prime-tech.git
+```
+#### Composer Update 
+
 
 ```bash
 composer update
